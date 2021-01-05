@@ -59,7 +59,7 @@
 box-shadow: 1px 1px 3px 4px rgba(141, 141, 141, 0.81);
 }
 
-@media only screen and (max-width: 750px) {
+@media only screen and (max-width: 600px) {
   .content {
     display: flex;
     flex-direction: column;
